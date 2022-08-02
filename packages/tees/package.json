@@ -4,7 +4,7 @@
   "description": "Universal test framework for front-end",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/unadlib/tees.git"
+    "url": "git+https://github.com/HannyYY/tees.git"
   },
   "main": "src/index.js",
   "scripts": {
